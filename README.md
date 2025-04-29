@@ -23,5 +23,5 @@ This is an optional feature, but useful for any games you play that includes luc
 
 # Final Words
 
-This was made using Autohotkey, my first steps for my social engineering career and stuff >:)
+This was made using Autohotkey, my first steps for my software engineering career and stuff >:)
 This seems to be my first ever solo repository on Github, so expect basic stuff here.
