@@ -6,15 +6,16 @@ This is a random number generator that 'spins' until it gets a specified lucky n
 This is the number the spinner will spin until. if you choose the number to be 25, for example, it will keep spinning until it hits that number or less. 
 
 NOTICE: pick a number between 10,000 and 1.
-1 is 0.01 percent
 
-10 = 0.1 percent
+1 is 0.01%
 
-100 is 1 percent
+10 = 0.1%
 
-1000 = 10 percent
+100 is 1%
 
-10,000 = 100 percent (certain)
+1000 = 10%
+
+10,000 = 100% (certain)
 
 0 = impossible, but it will give a randomly high number anyway...
 
@@ -29,4 +30,4 @@ This is an optional feature, but useful for any games you play that includes luc
 
 This was made using Autohotkey, my first steps for my software engineering career and stuff >:)
 
-This seems to be my first ever solo repository on Github, so expect basic stuff here.
+This is my first ever solo repository on Github, so expect basic stuff here.
